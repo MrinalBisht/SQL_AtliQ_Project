@@ -18,7 +18,7 @@ The primary task involves creating a data table for a yearly sales report, provi
 
 The data tables are built through MySQL. The accompanying stored procedure provides a quick way for the business manager to customize the data table based on the interested market, product, or customer for a given period of time.
 
-### 2. Market Share: [SQL project market share](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_market%20share.sql)
+### 2. Market Share: [SQL project market share.sql](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_market%20share.sql)
 
 Shifting the focus to net sales, this task considers discounts given to customers based on royalty and product. Two types of discounts, pre-invoice discount offers on a fiscal year basis and post-invoice discounts on transactions, require the creation of SQL database views by joining multiple tables. Additional stored procedures enable interactive data table generation. Net sales data, aggregated on customer, market, or product levels, provides valuable insights for understanding top-performing customers and products in terms of net sales, facilitating informed business strategies. The data can be exported to CSV and visualized with tools like Excel [Market share.xlsx](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/Market%20Share.xlsx)
 
