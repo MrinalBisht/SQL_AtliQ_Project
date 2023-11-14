@@ -24,9 +24,11 @@ Shifting the focus to net sales, this task considers discounts given to customer
 
 ![](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/regional%20market%20share.png)
 
-### 3. Supply Chain: [Sql supply chain.sql](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_supply%20chain.sql)
+### 3. Supply Chain: [SQL supply chain.sql](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_supply%20chain.sql)
 
 The goal of this task is to identify variances between the forecasted sales quantity and the actual sold quantity. Forecast accuracy data (forecast accuracy = 100% - absolute error%) empowers the supply chain manager to analyze data based on different criteria such as customer, product, or region. This understanding facilitates improvements in the accuracy of demand forecasts.
+
+![](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/sales%20forecast%20accuracy.png)
 
 ## SQL Skills Utilized
 
