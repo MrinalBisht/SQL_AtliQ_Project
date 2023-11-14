@@ -10,7 +10,7 @@ The dataset comprises two dimension tables for customer and product details, acc
 
 ## Tasks
 
-### 1. Gross Sales: [SQL project gross sales]([https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_gross%20sales.sql)
+### 1. Gross Sales: [SQL project gross sales.sql](https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/SQL%20Project_gross%20sales.sql)
 
 The primary task involves creating a data table for a yearly sales report, providing gross sales data (gross price * quantity sold) for a specific customer over a customizable period. Additionally, the business manager aims to classify markets into "Gold" and "Silver" categories based on aggregated gross sales. The aggregated data assists in identifying top-performing products and markets within a specified timeframe. The data tables are constructed using MySQL, with an accompanying stored procedure facilitating quick customization based on the interested market, product, or customer for a given period.
 
