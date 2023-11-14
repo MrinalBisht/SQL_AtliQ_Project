@@ -16,7 +16,7 @@ The primary task involves creating a data table for a yearly sales report, provi
 
 (https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/gross%20sales%20rank.png)
 
-The data tables are built through MySQL. The accompanying stored procedure provides a quick way for the business manager to customize the data table based on the interested market, product, or customer for a given period of time.
+#The data tables are built through MySQL. The accompanying stored procedure provides a quick way for the business manager to customize the data table based on the interested market, product, or customer for a given period of time.
 
 ### 2. Market Share
 
