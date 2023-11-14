@@ -14,6 +14,10 @@ The dataset comprises two dimension tables for customer and product details, acc
 
 The primary task involves creating a data table for a yearly sales report, providing gross sales data (gross price * quantity sold) for a specific customer over a customizable period. Additionally, the business manager aims to classify markets into "Gold" and "Silver" categories based on aggregated gross sales. The aggregated data assists in identifying top-performing products and markets within a specified timeframe. The data tables are constructed using MySQL, with an accompanying stored procedure facilitating quick customization based on the interested market, product, or customer for a given period.
 
+(https://github.com/MrinalBisht/SQL_AtliQ_Project/blob/main/gross%20sales%20rank.png)
+
+The data tables are built through MySQL. The accompanying stored procedure provides a quick way for the business manager to customize the data table based on the interested market, product, or customer for a given period of time.
+
 ### 2. Market Share
 
 Shifting the focus to net sales, this task considers discounts given to customers based on royalty and product. Two types of discounts, pre-invoice discount offers on a fiscal year basis and post-invoice discounts on transactions, require the creation of SQL database views by joining multiple tables. Additional stored procedures enable interactive data table generation. Net sales data, aggregated on customer, market, or product levels, provides valuable insights for understanding top-performing customers and products in terms of net sales, facilitating informed business strategies. The data can be exported to CSV and visualized with tools like Excel.
